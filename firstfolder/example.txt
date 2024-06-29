@@ -4,4 +4,3 @@ This is a new line
 
 and another one
 
-And another
